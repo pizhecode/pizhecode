@@ -2,7 +2,7 @@
 
 :heart: :icecream: :strawberry: :watermelon: :lemon: :milk_glass: :coffee: :poultry_leg: :fries: :video_game: :computer: :notes: :moneybag:
 
-*Hi, I'm Pizhe!I am an amateur independent developer.
+*Hi, I'm Pizhe! I am an amateur independent developer.
 I'm always excited to explore new tools and techniques to enhance my skills.
 In my free time, I’m a huge fan of Formula 1 racing and UFC.
 Infinite progress, growing together with like-minded partners.
