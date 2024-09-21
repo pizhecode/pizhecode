@@ -10,7 +10,4 @@ Have an amazing day!*
 
 ![](https://img.shields.io/badge/Golang-blue?style=flat-square&logo=go)![](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java) ![](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js)![](https://img.shields.io/badge/React-blue?style=flat-square&logo=React)
 
-
-## 今年汇总 ✨
-
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizhecode&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
