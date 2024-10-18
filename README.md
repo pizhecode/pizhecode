@@ -4,7 +4,6 @@
 
 *Hi, I'm Pizhe! I am an amateur independent developer.
 I'm always excited to explore new tools and techniques to enhance my skills.
-In my free time, I’m a huge fan of Formula 1 racing and UFC.
 Infinite progress, growing together with like-minded partners.
 Have an amazing day!*
 
